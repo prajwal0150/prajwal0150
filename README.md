@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Rai</h1>
-<h3 align="center">A passionate Full Stack Developer from Nepal</h3>
+<h3 align="center">I’m a 2nd-year student learning web development and Python programming</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prajwal0150&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal0150" />
