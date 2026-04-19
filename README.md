@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
 <h3 align="center">A passionate full-stack developer from Nepal</h3>
-<p align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="coding" />
-</p>
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=prajwal0150&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal0150" />
 </p>
 
