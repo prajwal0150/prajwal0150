@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **JavaScript**
 - 👨‍💻 All of my projects are available at [jovial-yeot-54c7bd.netlify.app](https://jovial-yeot-54c7bd.netlify.app)
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **React**
 - 📫 Reach me at **raihangrim064@gmail.com**
 
 ---
