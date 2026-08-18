@@ -1,126 +1,343 @@
-<h1 align="center">Hi 👋, I'm Prajwal Rai</h1>
+<div align="center">
 
-<h3 align="center">
-  Full Stack Developer | React • TypeScript • Node.js • Django
-</h3>
+# 👋 Hi, I'm Prajwal Rai
 
-<p align="center">
-  <a href="https://jovial-yeot-54c7bd.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+### Full Stack Developer | React • TypeScript • Node.js • Django
+
+<p>
+  <a href="https://jovial-yeot-54c7bd.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/prajwal-rai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/prajwal-rai">
+    <img src="https://img.shields.io/badge/LinkedIn-Prajwal%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:raihangrim064@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwal0150&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=prajwal0150&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a developer focused on building **modern, responsive, and user-friendly web applications**.
+I'm a **Full Stack Developer** who enjoys building modern, responsive,
+and user-friendly web applications.
 
-I enjoy turning ideas into real products — from designing clean interfaces to building APIs, authentication systems, databases, and complete application workflows.
+I like working across the entire development process — from designing
+interfaces and building reusable React components to developing APIs,
+authentication systems, databases, dashboards, and complete business workflows.
 
-- 🔭 Currently building a **full-stack Offer Platform**
-- 🌱 Continuously improving my **JavaScript, TypeScript, React, and backend development** skills
-- 💻 Interested in **Full Stack Web Development**
-- 🎨 I enjoy creating clean and practical user interfaces
-- 🚀 I like working on real-world projects rather than only tutorials
+- 🔭 Currently building a **Full Stack Offer Platform**
+- 🌱 Improving my **JavaScript, TypeScript, React, and backend development**
+- 💻 Focused on **Full Stack Web Development**
+- 🎨 Interested in **clean UI/UX and responsive interfaces**
+- 🧩 Enjoy building **real-world applications**
+- 🚀 Interested in learning scalable application architecture
 - 🤝 Open to collaborating on interesting projects
 - 📫 Reach me at **raihangrim064@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Do
 
-### Frontend
+<table>
+<tr>
+<td width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies" />
-</p>
+### 🎨 Frontend Development
 
-### Backend
+- React applications
+- TypeScript
+- Responsive UI
+- Tailwind CSS
+- Reusable components
+- State management
+- API integration
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" alt="Backend Technologies" />
-</p>
+</td>
 
-### Database
+<td width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies" />
-</p>
+### ⚙️ Backend Development
 
-### Tools & Technologies
+- REST APIs
+- Node.js
+- Express.js
+- Django
+- Authentication
+- Authorization
+- Database integration
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,linux" alt="Development Tools" />
-</p>
+</td>
+</tr>
 
-### Data & Other
+<tr>
+<td width="50%">
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-</p>
+### 🗄️ Database
+
+- MySQL
+- MongoDB
+- Data modeling
+- CRUD operations
+- API/database integration
+
+</td>
+
+<td width="50%">
+
+### 🛠️ Development
+
+- Git & GitHub
+- Postman
+- Figma
+- Linux
+- API testing
+- Application architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Project
+# 💼 Featured Project
 
-### 💼 Offer Platform
+## 🏷️ Offer Platform
 
-A full-stack platform designed to connect users with businesses and their offers.
+> A full-stack platform that connects users with businesses and their offers.
 
-**Key features include:**
+### ✨ Features
 
-- 🔐 User & business authentication
-- 👤 User and business profiles
+- 🔐 User authentication
+- 🏢 Business registration and management
+- 👤 User profiles
 - 🏷️ Offer creation and management
 - 🔎 Offer search and filtering
-- 🗺️ Location-based offers with maps
-- 📍 Business and offer locations
-- 🛠️ Business dashboard
+- 📍 Location-based offers
+- 🗺️ Interactive maps
+- 📊 Business dashboard
 - 👨‍💼 Administrator dashboard
 - 💰 Points / Top-Up system
 - 💳 Payment verification workflow
 - 🔔 Notifications
-- 📊 Offer and business management
+- 📈 Offer management
+- 🔒 Protected routes
+- ♻️ Access & refresh token authentication
 
-**Technologies:**
+### 🧰 Technologies
 
-`React` `TypeScript` `Redux` `Tailwind CSS` `Django` `REST API` `MySQL` `Leaflet`
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,redux,tailwind,python,django,mysql,git" />
+</p>
 
 ---
 
-## 📌 What I Build
+# 🛠️ Technologies & Tools
 
-```text
-Frontend
-├── Responsive Web Applications
-├── React Applications
-├── TypeScript Applications
-├── Modern UI/UX
-└── Dashboard Interfaces
+## Frontend
 
-Backend
-├── REST APIs
-├── Authentication & Authorization
-├── Business Logic
-├── Database Integration
-└── Admin Systems
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind" />
+</p>
 
-Full Stack
-├── End-to-End Applications
-├── API Integration
-├── Map & Location Features
-├── Payment Workflows
-└── Real-World Business Platforms
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,linux" />
+</p>
+
+---
+
+# 📌 My Development Focus
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ⚛️
+**Frontend**
+
+React  
+TypeScript  
+Tailwind CSS
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+**Backend**
+
+Node.js  
+Express  
+Django
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+**Database**
+
+MySQL  
+MongoDB
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+**Full Stack**
+
+REST APIs  
+Authentication  
+Deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=prajwal0150&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+  height="180"
+  alt="Prajwal GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal0150&layout=compact&hide_border=true&theme=transparent"
+  height="180"
+  alt="Top Languages"
+/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=prajwal0150&hide_border=true&theme=transparent"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal0150&theme=github-compact&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<table>
+<tr>
+<td>
+
+### JavaScript
+
+Deepening my understanding of modern JavaScript and application development.
+
+</td>
+
+<td>
+
+### TypeScript
+
+Building safer and more maintainable React applications.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### React Architecture
+
+Improving component structure, state management, and scalable frontend architecture.
+
+</td>
+
+<td>
+
+### Backend Development
+
+Improving REST API design, authentication, and backend architecture.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎯 My Goal
+
+> Build reliable, scalable, and user-friendly applications while continuously improving as a Full Stack Developer.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://jovial-yeot-54c7bd.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/prajwal-rai">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/prajwal34136137">
+<img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:raihangrim064@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Build. Learn. Improve. Repeat. 🚀
+
+**Thanks for visiting my profile!**
+
+</div>
