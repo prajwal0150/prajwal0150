@@ -79,5 +79,5 @@ width="280"
 ```text
 Frontend   → React / TypeScript
 Backend    → Node.js / Django
-Database   → MySQL / MongoDB
-Tools      → Git / Figma / Postman
+Database   → MySQL / MongoDB / SupaBase
+Tools      → Git / Figma / Postman 
