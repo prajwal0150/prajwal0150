@@ -35,7 +35,7 @@
 
 🧩 I enjoy solving problems and learning new technologies
 
-🚀 Currently working on a **full-stack Offer Platform**
+🚀 Currently working on a **full-stack LunchSathi-Nepal Platform**
 
 🌱 Improving my **JavaScript and TypeScript** skills
 
